@@ -54,5 +54,7 @@ O desenvolvimento deste framework proporcionou uma compreensão aprofundada de:
 2. Comportamento e respostas de firewalls corporativos e WAFs sob diferentes níveis de estresse e velocidade.
 3. Engenharia de software aplicada à segurança defensiva e ofensiva.
 
+além disso, eu construi essa ferramenta pois não tenho espaço o suficiente no meu computador para as ferramentas que preciso, sem ele virar uma bomba atomica... Então eu decidi construir minha propria ferramenta.
+
 ---
 *Nota: Este projeto foi desenvolvido estritamente para fins educacionais, laboratórios controlados e pesquisa em engenharia de segurança.*
