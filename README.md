@@ -49,3 +49,6 @@ além disso, eu construi essa ferramenta pois não tenho espaço o suficiente no
 
 ---
 *Nota: Este projeto foi desenvolvido estritamente para fins educacionais, laboratórios controlados e pesquisa em engenharia de segurança.*
+
+nota da criadora:
+caramba... escrevendo bonito assim você tava otimo... até a parte em que eu adicionava mais dois módulos e você me obrigava a ir mexer no CLI no final de tudo... bem.. foi dessa dificuldade que nasceu sua evolução... eu aceito a derrota... rsrs... 
